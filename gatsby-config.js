@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Shridhar Ulli`,
+    title: `Shridhar Ulli Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`
+      name: `Shridhar Ulli`,
+      summary: `who lives and works in Bengaluru, India.`
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `Frontend Engineer based in bengaluru.`,
+    siteUrl: `https://shridharulliblog.netlify.app/`,
     social: {
-      twitter: `kylemathews`
+      twitter: `shridharulli`
     }
   },
   plugins: [
